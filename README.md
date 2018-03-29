@@ -1,6 +1,6 @@
 # Legal bug bounty
 
-![image](https://user-images.githubusercontent.com/18099289/38116165-42bf4af0-33af-11e8-9c17-47e5f30ad81c.png)
+![untitled](https://user-images.githubusercontent.com/18099289/38116435-4f13c49c-33b0-11e8-8d95-a8e4c128b591.png)
 
 This is the [#legalbugbounty](https://twitter.com/search?q=legalbugbounty) standardization project. As [Amit Elazari](https://twitter.com/amitelazari) explains in [her Enigma talk](https://www.youtube.com/watch?v=riZIFOw0pJA) and her papers - the legal landscape of bug bounties is currently lacking. Safe harbor is the exception, not the standard and thousands of thousands of hunters are put in "legal's" harm way. I've suggested that bug bounty legal terms, starting with safe harbor, could and should be standardized. Once standardization of bug bounty legal language is achieved, the bug bounty economy will become an alternate private legal regime in which white-hat hacking is celebrated through regulatory incentives. 
 
