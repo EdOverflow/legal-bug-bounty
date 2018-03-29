@@ -4,6 +4,6 @@ As you know, you **CAN’T** grant authorization in the name of third parties or
 
 > We will not share your report with a third-party without gaining their commitment they will not pursue legal action against you or refer you the public inquiry. Please note again that we can’t authorize out-of-scope testing in the name of third parties and such testing is beyond the scope of the program.
 
-## Legal disclaimer
+## ⚖ Legal disclaimer
 
 **⚠ This is not legal advice! See disclaimer, you must consult your lawyers, I’m not admitted in the U.S.**

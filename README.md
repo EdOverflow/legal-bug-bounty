@@ -14,7 +14,7 @@ The benefits of standardization in bug bounties/CVDs of legal language across in
 - Reduce transaction and drafting costs;
 - Create a reputation system for legal terms.
 
-## Legal disclaimer
+## ⚖ Legal disclaimer
 
 **⚠ You must consult with a lawyer.**
 
