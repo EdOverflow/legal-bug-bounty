@@ -24,4 +24,4 @@ _This report does not constitute legal advice and the author is not admitted to 
 
 ## About this project
 
-This project is supported by CLTC, UC Berkeley.
+The #legalbugbounty project is supported by CLTC, UC Berkeley.
