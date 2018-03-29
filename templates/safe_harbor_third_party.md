@@ -6,4 +6,4 @@ As you know, you **CAN’T** grant authorization in the name of third parties or
 
 ## ⚖ Legal disclaimer
 
-**⚠ This is not legal advice! See disclaimer, you must consult your lawyers, I’m not admitted in the U.S.**
+**⚠ This is not legal advice! See disclaimer, you must consult your lawyers, the contributors of this project are not admitted in the U.S.**

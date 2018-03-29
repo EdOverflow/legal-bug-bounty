@@ -1,4 +1,4 @@
-The below safe harbor language is based on my general academic research in this field, the DOJ guidelines on this issue (which you must read! - https://www.justice.gov/criminal-ccips/page/file/983996/download) and some leading policies like Dropbox.
+The below safe harbor language is based on Amit Elazari's general academic research in this field, the DOJ guidelines on this issue (which you must read! - https://www.justice.gov/criminal-ccips/page/file/983996/download) and some leading policies like Dropbox.
 
 ## Template 1: Explicit safe harbor with good faith violations
 
