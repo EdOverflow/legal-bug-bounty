@@ -1,5 +1,8 @@
-I’ve expanded in my paper, talks and #legalbugbounty project on this problem of having conflicting contractual terms in the BBP policy that stand in tension with the DMCA exemption, CFAA authorization/safe harbor and DOJ’s framework, and the all idea of conducting a bug bounty in general. This is the unclear habit of subjecting hackers, explicitly in the bug bounty policy, to the end-user-license agreements (EULAs) that further prohibit reverse engineering and other tinkering or researching tools fundamental to security research—and sometimes even prohibit the mere attempt to gain unauthorized access. Instead of granting researchers permission to take such actions, the bug bounty terms prohibit them from doing so under contract, thereby undermining the DMCA exemption for security research and the DOJ framework purposes and basically creating de-facto liability for the researcher – by revoking authorization and sending mixed signals.  
-I see the logic of clarifying in the bug bounty policy that the other applicable agreements still apply. What I ask is: 1. Be mindful of this conflict. 2. Either you curve out the anti-hacking language or clarify that the BBP policy will prevail in case of conflict.
+I’ve expanded in my paper, talks and #legalbugbounty project on this problem of having conflicting contractual terms in the BBP policy that stand in tension with the DMCA exemption, CFAA authorization/safe harbor and DOJ’s framework, and the all idea of conducting a bug bounty in general. This is the unclear habit of subjecting hackers, explicitly in the bug bounty policy, to the end-user-license agreements (EULAs) that further prohibit reverse engineering and other tinkering or researching tools fundamental to security research—and sometimes even prohibit the mere attempt to gain unauthorized access. Instead of granting researchers permission to take such actions, the bug bounty terms prohibit them from doing so under contract, thereby undermining the DMCA exemption for security research and the DOJ framework purposes and basically creating de-facto liability for the researcher – by revoking authorization and sending mixed signals.
+
+I see the logic of clarifying in the bug bounty policy that the other applicable agreements still apply. What I ask is: 
+1. Be mindful of this conflict. 
+2. Either you curve out the anti-hacking language or clarify that the BBP policy will prevail in case of conflict.
 
 Here is a great example: 
 
@@ -7,7 +10,7 @@ Here is a great example:
  
 **Note:** Please don’t just say “and any other agreement in which you have entered with [our company]” but actually list and hyper-link these agreements, if possible, if you really want (and you want) the hunter to read them (again, simplify disclosures).
 
-Attribution: PayPal is the first company I’ve seen doing this properly, and @LegalRobot asked I will add this to this project. 
+**Attribution:** PayPal is the first company I’ve seen doing this properly, and @LegalRobot asked I will add this to this project. 
 
 ## ⚖ Legal disclaimer
 
