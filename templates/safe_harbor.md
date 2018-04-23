@@ -14,7 +14,7 @@ The below safe harbor language is based on Amit Elazari's general academic resea
 
 ## Template 2: Explicit safe harbor without good faith violations
 
-> To encourage responsible disclosures, we will not pursue civil action or initiate a complaint to law enforcement for security research and vulnerability disclosure activities conducted in consistence with all this policy guidelines. We consider security research and vulnerability disclosure activities conducted in consistence with this policy to guidelines “authorized” conduct under the Computer Fraud and Abuse Act, the DMCA and applicable anti-hacking laws such as Cal. Penal Code 502(c). We waive any DMCA claim against you for circumventing the technological measures we have used to protect the applications in scope.
+> To encourage responsible disclosures, we will not pursue civil action or initiate a complaint to law enforcement for security research and vulnerability disclosure activities conducted in consistence with all this policy guidelines. We consider security research and vulnerability disclosure activities conducted in consistence with this policy and guidelines “authorized” conduct under the Computer Fraud and Abuse Act, the DMCA and applicable anti-hacking laws such as Cal. Penal Code 502(c). We waive any DMCA claim against you for circumventing the technological measures we have used to protect the applications in scope.
 >
 > If legal action is initiated by a third party against you and you have complied with this bug bounty policy, we will take steps to make it known that your actions were conducted in compliance with this policy.
 >
